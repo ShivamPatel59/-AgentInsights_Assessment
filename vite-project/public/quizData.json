@@ -1,0 +1,62 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": ["New York", "London", "Paris", "Dublin"],
+    "answer": "Paris"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": ["Vincent Van Gogh", "Pablo Picasso", "Leonardo Da Vinci", "Claude Monet"],
+    "answer": "Leonardo Da Vinci"
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "options": ["Mars", "Venus", "Jupiter", "Saturn"],
+    "answer": "Jupiter"
+  },
+  {
+    "question": "Which gas do plants absorb from the atmosphere during photosynthesis?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "question": "Who is known as the 'Father of Modern Physics'?",
+    "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Niels Bohr"],
+    "answer": "Albert Einstein"
+  },
+  {
+    "question": "Which continent is the Sahara Desert located in?",
+    "options": ["North America", "Asia", "Africa", "Australia"],
+    "answer": "Africa"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "options": ["Go", "Au", "Gd", "Ag"],
+    "answer": "Au"
+  },
+  {
+    "question": "Who wrote the play 'Romeo and Juliet'?",
+    "options": ["William Shakespeare", "Charles Dickens", "Jane Austen", "George Orwell"],
+    "answer": "William Shakespeare"
+  },
+  {
+    "question": "Which planet is often referred to as the 'Red Planet'?",
+    "options": ["Venus", "Mars", "Jupiter", "Neptune"],
+    "answer": "Mars"
+  },
+  {
+    "question": "In which year did the Titanic sink?",
+    "options": ["1907", "1912", "1920", "1931"],
+    "answer": "1912"
+  },
+  {
+    "question": "What is the largest mammal on Earth?",
+    "options": ["African Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+    "answer": "Blue Whale"
+  },
+  {
+    "question": "Who is the author of the 'Harry Potter' book series?",
+    "options": ["J.R.R. Tolkien", "George Orwell", "J.K. Rowling", "Stephen King"],
+    "answer": "J.K. Rowling"
+  }
+]
